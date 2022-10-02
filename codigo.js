@@ -67,15 +67,15 @@ while (menu != "no") {
                 donacionBoo = true;
             } 
         }     
-    }                                                                                            
+    }  
+    passBoo = true;                                                                                          
     menu = prompt ("Desea realizar una nueva carga? (si/no).");
-        while (passBoo == false) {
+        while (passBoo) {
             if (!isNaN(menu)) {
                 alert ("Ingresar solamente `si` o `no`.");
                 menu = prompt ("Desea realizar una nueva carga? (si/no).");
             } else if (menu != "no") {
                 passBoo = false;
-                break;
             } else {
                 alert ("Cargando datos...");
                 break;
