@@ -88,6 +88,6 @@ alert ("EL dinero TOTAL donado es de: $" + acumulador);
 alert ("El 50% es de: $" + porcentaje(acumulador, 0.5) + "\n\nEste dinero será destinado al Centro Docente para Magos y Brujas jubilados/as de CoderHouse.");
 alert ("El 30% es de: $" + porcentaje(acumulador, 0.3) + "\n\nEste dinero será destinado a CoderHouse para mejorar el funcionamiento de su plataforma (broma ja!).");
 alert ("El 20% es de: $" + porcentaje(acumulador, 0.2) + "\n\nEste dinero será destinado a la compra de Insumos para Pociones.");
-alert ("GRACIAS por participar de nuestro primer encuentro para Seres Mágicos de CoderHouse.")
+alert ("GRACIAS por participar de nuestro Primer Encuentro para Seres Mágicos de CoderHouse.")
 
 
