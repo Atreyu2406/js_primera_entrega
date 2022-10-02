@@ -8,7 +8,6 @@ let free = false;
 let menu;
 let acumulador = 0;
 
-// menu = (prompt ("Quieres inicar el sistema de registro? (si/no)."));
 alert ("Bienvenidos al Primer Encuentro de Seres Mágicos de CoderHouse.");
 alert ("INFORMACIÓN A TENER EN CUENTA.\n\nEs exclusivo para Seres Mágicos de CoderHouse.\nProhibido el ingreso con varitas y/o objetos mágicos.\nSe recibirán Donaciones que tendrán fines benéficos.\nHabrá una Barra de Pociones Alcohólicas.");
 alert ("INFORMACIÓN CONFIDENCIAL - Consignas de la entrega.\n\nLos docentes tendrán trato VIP (requiere de contraseña, tres intentos).\nEl primero o la primera en donar $5000 o más tendrá Barra Libre de Pociones Alcohólicas.\nEl dinero recaudado se dividirá en tres porcentajes diferentes (50%, 30% y 20%).");
